@@ -1,1 +1,0 @@
-/usr/bin/cc  -pthread CMakeFiles/fsake.dir/disk.c.o CMakeFiles/fsake.dir/inode.c.o CMakeFiles/fsake.dir/main.c.o -o fsake 
