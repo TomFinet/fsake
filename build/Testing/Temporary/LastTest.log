@@ -1,0 +1,23 @@
+Start testing: Jan 25 22:56 CET
+----------------------------------------------------------
+1/1 Testing: test_fsake
+1/1 Test: test_fsake
+Command: "/home/tomfinet/projects/fsake/build/tests/test_fsake"
+Directory: /home/tomfinet/projects/fsake/build
+"test_fsake" start time: Jan 25 22:56 CET
+Output:
+----------------------------------------------------------
+Running suite(s): inode
+0%: Checks: 1, Failures: 1, Errors: 0
+/home/tomfinet/projects/fsake/tests/test_inode.h:15:F:core:test_get_inode:0: Assertion 'inode->mode == (uint16_t)((char) 0)' failed
+Running suite(s): disk
+100%: Checks: 2, Failures: 0, Errors: 0
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Failed.
+"test_fsake" end time: Jan 25 22:56 CET
+"test_fsake" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 25 22:56 CET

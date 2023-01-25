@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibfsake.a CMakeFiles/libfsake.dir/disk.c.o CMakeFiles/libfsake.dir/inode.c.o
+/usr/bin/ranlib liblibfsake.a

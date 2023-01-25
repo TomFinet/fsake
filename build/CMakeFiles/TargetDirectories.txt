@@ -1,0 +1,12 @@
+/home/tomfinet/projects/fsake/build/CMakeFiles/test.dir
+/home/tomfinet/projects/fsake/build/CMakeFiles/edit_cache.dir
+/home/tomfinet/projects/fsake/build/CMakeFiles/rebuild_cache.dir
+/home/tomfinet/projects/fsake/build/src/CMakeFiles/libfsake.dir
+/home/tomfinet/projects/fsake/build/src/CMakeFiles/fsake.dir
+/home/tomfinet/projects/fsake/build/src/CMakeFiles/test.dir
+/home/tomfinet/projects/fsake/build/src/CMakeFiles/edit_cache.dir
+/home/tomfinet/projects/fsake/build/src/CMakeFiles/rebuild_cache.dir
+/home/tomfinet/projects/fsake/build/tests/CMakeFiles/test_fsake.dir
+/home/tomfinet/projects/fsake/build/tests/CMakeFiles/test.dir
+/home/tomfinet/projects/fsake/build/tests/CMakeFiles/edit_cache.dir
+/home/tomfinet/projects/fsake/build/tests/CMakeFiles/rebuild_cache.dir
